@@ -1,0 +1,14 @@
+body {
+    background-image: url("./img/background.jpg");
+    background-color: #cccccc;
+    background-repeat: round;
+    font-family: "Raleway";
+}
+
+.img-tec {
+    max-width: 250px;
+}
+
+p {
+    font-size: 20px;
+}
